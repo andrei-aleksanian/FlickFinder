@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>FlickFinder </title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'main_app/style.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'main_app/form.css' %}">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  </head>
+  <body>
+    <form>
+      <div class="form-head"> REGISTER </div>
+        <input type="text" name="email" placeholder="Email address">
+        <input type="text" name="cemail" placeholder="Confirm Email">
+        <input type="password" name="password" placeholder="Password">
+        <input type="password" name="cpassword" placeholder="Confirm password">
+      <input type="submit" value="SUBMIT" id="submit-bttn">
+      <a href="/" style="align-self: flex-start;">Back to homepage</a>      
+    </form>
+  </body>
+</html>

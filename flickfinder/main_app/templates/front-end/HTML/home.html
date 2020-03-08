@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Fjalla+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../CSS/home.css">
+    <meta charset="UTF-8">
+    <title>FlickFinder</title>
+</head>
+<body>
+    <header>
+        <div class="navigation">
+            <a href="#" class="logo">FlickFinder</a>
+            <nav>
+                <ul>
+                    <li><form><<input type="text" name="search" placeholder="Type a  movie name" id="search-bar"></form></li>
+                    <li><a href="search.html">Search</a></li>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Login</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+<main class="wrapper">
+
+    <div id="we-recommend-box">
+        <h2>Movies We Recommend You watch:</h2>
+        <div id="we-recommend-data"></div>
+        <script>
+            fetch("https://my-json-server.typicode.com/typicode/demo/posts")
+                .then(response => response.json())
+                .then(data => {
+                    let display = document.getElementById("we-recommend-data");
+                    let list = document.createElement("ul");
+                    for(let i=0;i<2;i++){
+                        data.forEach(i => {
+                            let element = document.createElement("li");
+                            element.innerHTML = "Movie title:"+ i['title'];
+                            list.appendChild(element);
+                        });
+                        display.appendChild(list);
+                    }
+
+                });
+        </script>
+    </div>
+
+    <div id="user-rate-box">
+        <h2> Movies you have rated:</h2>
+        <div id="user-rate-data"></div>
+
+        <script>
+            fetch("https://my-json-server.typicode.com/typicode/demo/posts")
+                .then(response => response.json())
+                .then(data => {
+                    let display = document.getElementById("user-rate-data");
+                    let list = document.createElement("ul");
+                    data.forEach(i => {
+                        let element = document.createElement("li");
+                        element.innerHTML = "Movie title:" + i['title']+" Rating:" + i['rating'];
+                        list.appendChild(element);
+                    });
+                    display.appendChild(list);
+                })
+        </script>
+    </div>
+
+</main>
+
+<footer>
+    <ul>
+        <li>Copyright &copy; 2020 flickfinder.com, all rights reserved Group Y7 </li>
+        <li><a href="Aboutus.html">About Us</a></li>
+        <li><a href="condition.html">Condition of Use</a></li>
+        <li><a href="privacy.html">Privacy Policy</a></li>
+    </ul>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,185 @@
+/* Getting rid of default stylings */
+*{
+    color: #111;
+    margin:0;
+    padding:0;
+    list-style: none;
+    text-decoration: none;
+}
+
+/* Same font for the whole body */
+body {
+    margin:0;
+    background: #FFF8F0;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+
+/* ------------- Styling the header ------------- */
+.navigation{
+    width: 80%;
+    margin: 0 auto;
+}
+
+header{
+    height: 50px;
+    background: #E4B363;
+    padding-bottom: 15px;
+    position: fixed;
+    top:0;
+    right:0;
+    left:0;
+}
+
+header::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+nav {
+
+}
+
+.logo{
+    color: #FFF8F0;
+    float: left;
+    text-decoration: none;
+    padding-top: 10px;
+    font-size: 40px;
+}
+
+nav ul{
+    float: right;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li{
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 20px;
+
+    position: relative;
+}
+
+nav ul li a{
+    color: #FFF8F0;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+
+}
+
+nav ul li a:hover{
+    color: #323E40;
+}
+
+nav ul li a::before{
+    content: '';
+    display: block;
+    height: 5px;
+    background-color: #323E40;
+
+    position:absolute;
+    top: 0;
+    width: 0;
+
+    transition: all ease-in-out 250ms;
+}
+
+nav ul li a:hover::before{
+    width: 100%;
+}
+
+/* ---------------Main Section--------------- */
+
+.wrapper{
+    background: #fff;
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+
+    width: 1100px;
+    height: auto;
+    margin: 10px auto 0;
+    padding: 70px 20px 10px;
+}
+
+.wrapper #we-recommend-box{
+    flex-basis: 100%;
+    height: auto;
+}
+
+.wrapper #user-rate-box{
+    flex-basis: 100%;
+    height: auto;
+}
+
+.wrapper h2{
+    font-size: 32px;
+    padding-bottom: 10px;
+}
+
+.wrapper div ul{
+    background: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-bottom: 10px;
+    height: auto;
+}
+
+.wrapper div li{
+    background: #f3f3f3;
+    height: 190px;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 2%;
+    margin: 1%;
+    flex-basis: 26%;
+
+    transition: all 0.3s ease-in-out;
+
+}
+
+.wrapper div li:hover {
+    background: #dcdcdc;
+    padding: 3%;
+    margin:0;
+    font-size: 22px;
+}
+/* ---------------- Footer -------------------*/
+footer{
+    display: block;
+    left:0;
+    bottom:0;
+    background-color:#222;
+    padding-top:5px;
+    height: 60px;
+    width:100%;
+
+}
+footer li{
+    color:#f3f3f3;
+    text-decoration: none;
+    display: inline-block;
+    padding: 20px 20px 20px 0;
+    float:right;
+}
+
+footer li:first-child{
+    float:left;
+    padding-left: 20px;
+}
+
+footer li a{
+    color:#f3f3f3;
+    text-decoration: none;
+}
+
+/* ??? */
+footer a:hover{
+    text-decoration:underline;
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Fjalla+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/home/mohammed/Downloads/first_year_team_project-master/flickfinder/home.css">
+    <meta charset="UTF-8">
+    <title>FlickFinder</title>
+</head>
+<body>
+    <header>
+        <div class="navigation">
+            <a href="#" class="logo">FlickFinder</a>
+            <nav>
+                <ul>
+                    <li><a href="./search.html">Search</a></li>
+                    <li><a href="./home.html">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="./sign-in.html">Login</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <h2>Movies We Recommend You watch:</h2>
+    <div id="werecommend"></div>
+
+<script>
+    fetch("https://my-json-server.typicode.com/typicode/demo/posts")
+    .then(response => response.json())
+    .then(data => {
+        var display = document.getElementById("werecommend")
+        var list = document.createElement("ul")
+        data.forEach(i => {
+            var element = document.createElement("li")
+            element.innerHTML = "Movie title:"+ i['title']
+            list.appendChild(element)
+        })
+        display.appendChild(list)
+    })
+</script>
+</body>
+</html>
