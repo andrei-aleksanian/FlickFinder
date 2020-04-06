@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FlickFinder | Login</title>
+    <link type="text/css" rel="stylesheet" href="{% static 'main_app/log.css' %}">
+<style type ="text/css">
+
+
+
+</style>
+</head>
+<body>
+<div id="head">
+  <div class ="header"><strong>FlickFinder</strong></div>
+
+</div>
+	
+<div id = "background">
+	<div class= "logGet">
+		<!-- The head -->
+		<div class = "logTip">
+			<p class = p1>Sign in with your account</p>
+		</div>
+        <!--account number -->
+        <div class = "logAccount" >
+            <input class = "logInput" type="text" placeholder="Username">
+        </div>
+        <!-- passward number -->
+        <div class ="logAccount">
+            <input class = "logInput"  type="password" placeholder="Password">
+		</div>
+        
+        <div class = "logButton">
+			<a href=" " target="_self"><button class = "logGbutton">Sign in</button></a>
+        </div>
+        
+        <div class = "logButton">
+                <a href ="/register" class = "link" target = "_blank">No account? click here</a>
+        </div>
+	</div>
+</div>
+	
+<div id="head"></div>
+	
+	
+</body>
+</html>

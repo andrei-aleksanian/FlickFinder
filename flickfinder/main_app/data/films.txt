@@ -1,0 +1,882 @@
+Toy Story (1995) - id:1
+Grumpier Old Men (1995) - id:3
+Heat (1995) - id:6
+Seven (a.k.a. Se7en) (1995) - id:47
+Usual Suspects, The (1995) - id:50
+From Dusk Till Dawn (1996) - id:70
+Braveheart (1995) - id:110
+Rob Roy (1995) - id:151
+Desperado (1995) - id:163
+Billy Madison (1995) - id:216
+Clerks (1994) - id:223
+Dumb & Dumber (Dumb and Dumber) (1994) - id:231
+Ed Wood (1994) - id:235
+Star Wars: Episode IV - A New Hope (1977) - id:260
+Pulp Fiction (1994) - id:296
+Stargate (1994) - id:316
+Tommy Boy (1995) - id:333
+Clear and Present Danger (1994) - id:349
+Forrest Gump (1994) - id:356
+Jungle Book, The (1994) - id:362
+Mask, The (1994) - id:367
+Dazed and Confused (1993) - id:441
+Fugitive, The (1993) - id:457
+Jurassic Park (1993) - id:480
+Mrs. Doubtfire (1993) - id:500
+Schindler's List (1993) - id:527
+So I Married an Axe Murderer (1993) - id:543
+Three Musketeers, The (1993) - id:552
+Tombstone (1993) - id:553
+Dances with Wolves (1990) - id:590
+Batman (1989) - id:592
+Silence of the Lambs, The (1991) - id:593
+Pinocchio (1940) - id:596
+Fargo (1996) - id:608
+Mission: Impossible (1996) - id:648
+James and the Giant Peach (1996) - id:661
+Space Jam (1996) - id:673
+Rock, The (1996) - id:733
+Twister (1996) - id:736
+Independence Day (a.k.a. ID4) (1996) - id:780
+Wizard of Oz, The (1939) - id:919
+Citizen Kane (1941) - id:923
+Dumbo (1941) - id:1029
+Alice in Wonderland (1951) - id:1032
+That Thing You Do! (1996) - id:1042
+Swingers (1996) - id:1060
+Willy Wonka & the Chocolate Factory (1971) - id:1073
+Monty Python's Life of Brian (1979) - id:1080
+Reservoir Dogs (1992) - id:1089
+Platoon (1986) - id:1090
+Basic Instinct (1992) - id:1092
+E.T. the Extra-Terrestrial (1982) - id:1097
+Abyss, The (1989) - id:1127
+Monty Python and the Holy Grail (1975) - id:1136
+Star Wars: Episode V - The Empire Strikes Back (1980) - id:1196
+Princess Bride, The (1987) - id:1197
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981) - id:1198
+Clockwork Orange, A (1971) - id:1206
+Apocalypse Now (1979) - id:1208
+Star Wars: Episode VI - Return of the Jedi (1983) - id:1210
+Goodfellas (1990) - id:1213
+Alien (1979) - id:1214
+Psycho (1960) - id:1219
+Blues Brothers, The (1980) - id:1220
+Full Metal Jacket (1987) - id:1222
+Terminator, The (1984) - id:1240
+Shining, The (1980) - id:1258
+Groundhog Day (1993) - id:1265
+Back to the Future (1985) - id:1270
+Highlander (1986) - id:1275
+Young Frankenstein (1974) - id:1278
+Fantasia (1940) - id:1282
+Indiana Jones and the Last Crusade (1989) - id:1291
+Batman Returns (1992) - id:1377
+Sneakers (1992) - id:1396
+Last of the Mohicans, The (1992) - id:1408
+Grosse Pointe Blank (1997) - id:1500
+Austin Powers: International Man of Mystery (1997) - id:1517
+Con Air (1997) - id:1552
+Face/Off (1997) - id:1573
+Men in Black (a.k.a. MIB) (1997) - id:1580
+Conan the Barbarian (1982) - id:1587
+L.A. Confidential (1997) - id:1617
+Game, The (1997) - id:1625
+I Know What You Did Last Summer (1997) - id:1644
+Starship Troopers (1997) - id:1676
+Big Lebowski, The (1998) - id:1732
+Wedding Singer, The (1998) - id:1777
+Wild Things (1998) - id:1805
+Rocky (1976) - id:1954
+Labyrinth (1986) - id:1967
+Lethal Weapon (1987) - id:2000
+Goonies, The (1985) - id:2005
+Back to the Future Part III (1990) - id:2012
+Bambi (1942) - id:2018
+Saving Private Ryan (1998) - id:2028
+Honey, I Shrunk the Kids (1989) - id:2054
+Negotiator, The (1998) - id:2058
+Jungle Book, The (1967) - id:2078
+Rocketeer, The (1991) - id:2094
+Tron (1982) - id:2105
+Indiana Jones and the Temple of Doom (1984) - id:2115
+NeverEnding Story, The (1984) - id:2161
+Beetlejuice (1988) - id:2174
+Willow (1988) - id:2193
+Few Good Men, A (1992) - id:2268
+Rush Hour (1998) - id:2273
+Edward Scissorhands (1990) - id:2291
+American History X (1998) - id:2329
+Enemy of the State (1998) - id:2353
+Rushmore (1998) - id:2395
+Romancing the Stone (1984) - id:2406
+Thin Red Line, The (1998) - id:2427
+Crocodile Dundee (1986) - id:2470
+Office Space (1999) - id:2502
+Planet of the Apes (1968) - id:2529
+Lock, Stock & Two Smoking Barrels (1998) - id:2542
+Matrix, The (1999) - id:2571
+Go (1999) - id:2580
+Mummy, The (1999) - id:2617
+Star Wars: Episode I - The Phantom Menace (1999) - id:2628
+Superman (1978) - id:2640
+Superman II (1980) - id:2641
+Rocky Horror Picture Show, The (1975) - id:2657
+Run Lola Run (Lola rennt) (1998) - id:2692
+South Park: Bigger, Longer and Uncut (1999) - id:2700
+Ghostbusters (a.k.a. Ghost Busters) (1984) - id:2716
+Iron Giant, The (1999) - id:2761
+Big (1988) - id:2797
+American Beauty (1999) - id:2858
+Total Recall (1990) - id:2916
+Dirty Dozen, The (1967) - id:2944
+Goldfinger (1964) - id:2947
+From Russia with Love (1963) - id:2948
+Dr. No (1962) - id:2949
+Fight Club (1999) - id:2959
+RoboCop (1987) - id:2985
+Who Framed Roger Rabbit? (1988) - id:2987
+Being John Malkovich (1999) - id:2997
+Spaceballs (1987) - id:3033
+Robin Hood (1973) - id:3034
+Dogma (1999) - id:3052
+Green Mile, The (1999) - id:3147
+Talented Mr. Ripley, The (1999) - id:3176
+Sister Act (1992) - id:3247
+Wayne's World (1992) - id:3253
+JFK (1991) - id:3386
+Good Morning, Vietnam (1987) - id:3448
+Hook (1991) - id:3489
+Predator (1987) - id:3527
+Gladiator (2000) - id:3578
+Road Trip (2000) - id:3617
+Blazing Saddles (1974) - id:3671
+Mad Max (1979) - id:3702
+Road Warrior, The (Mad Max 2) (1981) - id:3703
+X-Men (2000) - id:3793
+What About Bob? (1991) - id:3809
+M*A*S*H (a.k.a. MASH) (1970) - id:5060
+Shawshank Redemption, The (1994) - id:318
+Good Will Hunting (1997) - id:1704
+Kill Bill: Vol. 1 (2003) - id:6874
+Collateral (2004) - id:8798
+Departed, The (2006) - id:48516
+Dark Knight, The (2008) - id:58559
+Inglourious Basterds (2009) - id:68157
+Zombieland (2009) - id:71535
+Shutter Island (2010) - id:74458
+Inception (2010) - id:79132
+Dark Knight Rises, The (2012) - id:91529
+Girl with the Dragon Tattoo, The (2011) - id:91658
+Django Unchained (2012) - id:99114
+Wolf of Wall Street, The (2013) - id:106782
+Interstellar (2014) - id:109487
+Whiplash (2014) - id:112552
+Mad Max: Fury Road (2015) - id:122882
+Dangerous Minds (1995) - id:31
+Escape from L.A. (1996) - id:849
+My Fair Lady (1964) - id:914
+Doors, The (1991) - id:1093
+Deer Hunter, The (1978) - id:1263
+Patton (1970) - id:1272
+Field of Dreams (1989) - id:1302
+Star Trek: The Motion Picture (1979) - id:1371
+Lady and the Tramp (1955) - id:2080
+Thing, The (1982) - id:2288
+You've Got Mail (1998) - id:2424
+Fast Times at Ridgemont High (1982) - id:3210
+Requiem for a Dream (2000) - id:3949
+Get Shorty (1995) - id:21
+Twelve Monkeys (a.k.a. 12 Monkeys) (1995) - id:32
+To Die For (1995) - id:45
+Postman, The (Postino, Il) (1994) - id:58
+Like Water for Chocolate (Como agua para chocolate) (1992) - id:265
+Muriel's Wedding (1994) - id:342
+Adventures of Priscilla, Queen of the Desert, The (1994) - id:345
+Bullets Over Broadway (1994) - id:348
+Four Weddings and a Funeral (1994) - id:357
+Maverick (1994) - id:368
+Piano, The (1993) - id:509
+Sleepless in Seattle (1993) - id:539
+Aladdin (1992) - id:588
+Beauty and the Beast (1991) - id:595
+Truth About Cats & Dogs, The (1996) - id:708
+Singin' in the Rain (1952) - id:899
+Breakfast at Tiffany's (1961) - id:902
+Rear Window (1954) - id:904
+North by Northwest (1959) - id:908
+Some Like It Hot (1959) - id:910
+Casablanca (1942) - id:912
+Gone with the Wind (1939) - id:920
+Fish Called Wanda, A (1988) - id:1079
+Bonnie and Clyde (1967) - id:1084
+Crying Game, The (1992) - id:1094
+English Patient, The (1996) - id:1183
+Brazil (1985) - id:1199
+12 Angry Men (1957) - id:1203
+Amadeus (1984) - id:1225
+Bridge on the River Kwai, The (1957) - id:1250
+Stand by Me (1986) - id:1259
+Unforgiven (1992) - id:1266
+This Is Spinal Tap (1984) - id:1288
+Butch Cassidy and the Sundance Kid (1969) - id:1304
+Mars Attacks! (1996) - id:1391
+Donnie Brasco (1997) - id:1466
+Conspiracy Theory (1997) - id:1597
+Full Monty, The (1997) - id:1641
+Mulan (1998) - id:1907
+There's Something About Mary (1998) - id:1923
+West Side Story (1961) - id:1947
+Breakfast Club, The (1985) - id:1968
+Seven Samurai (Shichinin no samurai) (1954) - id:2019
+Blue Velvet (1986) - id:2076
+Pretty in Pink (1986) - id:2145
+Life Is Beautiful (La Vita è bella) (1997) - id:2324
+Election (1999) - id:2599
+Austin Powers: The Spy Who Shagged Me (1999) - id:2683
+Eyes Wide Shut (1999) - id:2712
+Sixth Sense, The (1999) - id:2762
+Thomas Crown Affair, The (1999) - id:2763
+Bowfinger (1999) - id:2770
+Airplane! (1980) - id:2791
+Magnolia (1999) - id:3160
+Galaxy Quest (1999) - id:3175
+League of Their Own, A (1992) - id:3255
+Erin Brockovich (2000) - id:3408
+High Fidelity (2000) - id:3481
+Almost Famous (2000) - id:3897
+Best in Show (2000) - id:3911
+Billy Elliot (2000) - id:3967
+Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000) - id:3996
+Chocolat (2000) - id:4014
+O Brother, Where Art Thou? (2000) - id:4027
+Traffic (2000) - id:4034
+Memento (2000) - id:4226
+Blow (2001) - id:4239
+Bridget Jones's Diary (2001) - id:4246
+Moulin Rouge (2001) - id:4308
+Ghost World (2001) - id:4641
+Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001) - id:4896
+Babe (1995) - id:34
+Dead Man Walking (1995) - id:36
+Clueless (1995) - id:39
+Apollo 13 (1995) - id:150
+Batman Forever (1995) - id:153
+Interview with the Vampire: The Vampire Chronicles (1994) - id:253
+Little Women (1994) - id:261
+Legends of the Fall (1994) - id:266
+Quiz Show (1994) - id:300
+Ace Ventura: Pet Detective (1994) - id:344
+Lion King, The (1994) - id:364
+True Lies (1994) - id:380
+Addams Family Values (1993) - id:410
+In the Line of Fire (1993) - id:474
+Terminator 2: Judgment Day (1991) - id:589
+Snow White and the Seven Dwarfs (1937) - id:594
+Pretty Woman (1990) - id:597
+Jumanji (1995) - id:2
+Father of the Bride Part II (1995) - id:5
+Sabrina (1995) - id:7
+GoldenEye (1995) - id:10
+American President, The (1995) - id:11
+Casino (1995) - id:16
+Sense and Sensibility (1995) - id:17
+Ace Ventura: When Nature Calls (1995) - id:19
+Copycat (1995) - id:22
+Leaving Las Vegas (1995) - id:25
+Indian in the Cupboard, The (1995) - id:60
+Mr. Holland's Opus (1995) - id:62
+Bio-Dome (1996) - id:65
+Broken Arrow (1996) - id:95
+Happy Gilmore (1996) - id:104
+Rumble in the Bronx (Hont faan kui) (1995) - id:112
+Down Periscope (1996) - id:135
+Birdcage, The (1996) - id:141
+Bad Boys (1995) - id:145
+Casper (1995) - id:158
+Congo (1995) - id:160
+Crimson Tide (1995) - id:161
+Die Hard: With a Vengeance (1995) - id:165
+First Knight (1995) - id:168
+Hackers (1995) - id:170
+Mallrats (1995) - id:180
+Net, The (1995) - id:185
+Nine Months (1995) - id:186
+Species (1995) - id:196
+Under Siege 2: Dark Territory (1995) - id:204
+Waterworld (1995) - id:208
+Don Juan DeMarco (1995) - id:224
+Disclosure (1994) - id:225
+French Kiss (1995) - id:236
+I.Q. (1994) - id:252
+Junior (1994) - id:256
+Miracle on 34th Street (1994) - id:277
+Nell (1994) - id:282
+Natural Born Killers (1994) - id:288
+Outbreak (1995) - id:292
+Léon: The Professional (a.k.a. The Professional) (Léon) (1994) - id:293
+Quick and the Dead, The (1995) - id:303
+Specialist, The (1994) - id:315
+Santa Clause, The (1994) - id:317
+Tank Girl (1995) - id:327
+Star Trek: Generations (1994) - id:329
+What's Eating Gilbert Grape (1993) - id:337
+While You Were Sleeping (1995) - id:339
+Client, The (1994) - id:350
+Crow, The (1994) - id:353
+Flintstones, The (1994) - id:355
+Naked Gun 33 1/3: The Final Insult (1994) - id:370
+Speed (1994) - id:377
+City Slickers II: The Legend of Curly's Gold (1994) - id:432
+Cliffhanger (1993) - id:434
+Coneheads (1993) - id:435
+Dave (1993) - id:440
+Firm, The (1993) - id:454
+Free Willy (1993) - id:455
+Hot Shots! Part Deux (1993) - id:466
+Last Action Hero (1993) - id:485
+Executive Decision (1996) - id:494
+Much Ado About Nothing (1993) - id:497
+Philadelphia (1993) - id:508
+Robin Hood: Men in Tights (1993) - id:520
+Rudy (1993) - id:524
+Ghost (1990) - id:587
+Aristocats, The (1970) - id:616
+Primal Fear (1996) - id:628
+Sgt. Bilko (1996) - id:637
+Multiplicity (1996) - id:719
+Striptease (1996) - id:762
+Hunchback of Notre Dame, The (1996) - id:783
+Phenomenon (1996) - id:802
+Matilda (1996) - id:837
+Emma (1996) - id:838
+Tin Cup (1996) - id:852
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) - id:750
+2001: A Space Odyssey (1968) - id:924
+Top Gun (1986) - id:1101
+Dead Poets Society (1989) - id:1246
+Contact (1997) - id:1584
+Hunt for Red October, The (1990) - id:1610
+Truman Show, The (1998) - id:1682
+As Good as It Gets (1997) - id:1784
+Armageddon (1998) - id:1917
+Notting Hill (1999) - id:2671
+Wild Wild West (1999) - id:2701
+Ghostbusters II (1989) - id:2717
+Toy Story 2 (1999) - id:3114
+Mission: Impossible II (2000) - id:3623
+Remember the Titans (2000) - id:3916
+Charlie's Angels (2000) - id:3977
+Unbreakable (2000) - id:3994
+What Women Want (2000) - id:4018
+Enemy at the Gates (2001) - id:4223
+Shrek (2001) - id:4306
+Pearl Harbor (2001) - id:4310
+A.I. Artificial Intelligence (2001) - id:4370
+Planet of the Apes (2001) - id:4643
+K-PAX (2001) - id:4874
+Monsters, Inc. (2001) - id:4886
+Ocean's Eleven (2001) - id:4963
+Lord of the Rings: The Fellowship of the Ring, The (2001) - id:4993
+Beautiful Mind, A (2001) - id:4995
+Ice Age (2002) - id:5218
+Spider-Man (2002) - id:5349
+Star Wars: Episode II - Attack of the Clones (2002) - id:5378
+Minority Report (2002) - id:5445
+Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002) - id:5459
+Road to Perdition (2002) - id:5464
+Signs (2002) - id:5502
+Spirited Away (Sen to Chihiro no kamikakushi) (2001) - id:5618
+Harry Potter and the Chamber of Secrets (2002) - id:5816
+Lord of the Rings: The Two Towers, The (2002) - id:5952
+Catch Me If You Can (2002) - id:5989
+Chicago (2002) - id:5991
+X2: X-Men United (2003) - id:6333
+Matrix Reloaded, The (2003) - id:6365
+Hulk (2003) - id:6534
+Pirates of the Caribbean: The Curse of the Black Pearl (2003) - id:6539
+School of Rock (2003) - id:6863
+Matrix Revolutions, The (2003) - id:6934
+Last Samurai, The (2003) - id:7143
+Lord of the Rings: The Return of the King, The (2003) - id:7153
+Man on Fire (2004) - id:7445
+Shrek 2 (2004) - id:8360
+Harry Potter and the Prisoner of Azkaban (2004) - id:8368
+Dodgeball: A True Underdog Story (2004) - id:8528
+Spider-Man 2 (2004) - id:8636
+Bourne Supremacy, The (2004) - id:8665
+Sideways (2004) - id:8949
+Saw (2004) - id:8957
+Incredibles, The (2004) - id:8961
+Finding Neverland (2004) - id:8970
+National Treasure (2004) - id:8972
+Ocean's Twelve (2004) - id:8984
+Aviator, The (2004) - id:30812
+Sin City (2005) - id:32587
+Star Wars: Episode III - Revenge of the Sith (2005) - id:33493
+Batman Begins (2005) - id:33794
+War of the Worlds (2005) - id:34048
+Island, The (2005) - id:34319
+X-Men: The Last Stand (2006) - id:45499
+Cars (2006) - id:45517
+Casino Royale (2006) - id:49272
+Home Alone (1990) - id:586
+Witness (1985) - id:1674
+Back to the Future Part II (1989) - id:2011
+Godfather: Part III, The (1990) - id:2023
+Producers, The (1968) - id:2300
+Austin Powers in Goldmember (2002) - id:5481
+Adaptation (2002) - id:5902
+Gangs of New York (2002) - id:5956
+Mary Poppins (1964) - id:1028
+Dirty Dancing (1987) - id:1088
+Graduate, The (1967) - id:1247
+When Harry Met Sally... (1989) - id:1307
+Bring It On (2000) - id:3882
+Legally Blonde (2001) - id:4447
+About a Boy (2002) - id:5377
+Finding Nemo (2003) - id:6377
+Love Actually (2003) - id:6942
+50 First Dates (2004) - id:7293
+Mean Girls (2004) - id:7451
+Troy (2004) - id:7458
+Terminal, The (2004) - id:8529
+Notebook, The (2004) - id:8533
+Hotel Rwanda (2004) - id:30749
+Hitch (2005) - id:31685
+Mr. & Mrs. Smith (2005) - id:33679
+Walk the Line (2005) - id:40819
+Pursuit of Happyness, The (2006) - id:47099
+300 (2007) - id:51662
+Bourne Ultimatum, The (2007) - id:54286
+Juno (2007) - id:56367
+Quantum of Solace (2008) - id:63113
+Yes Man (2008) - id:64969
+Up (2009) - id:68954
+Harry Potter and the Half-Blood Prince (2009) - id:69844
+Up in the Air (2009) - id:72011
+Avatar (2009) - id:72998
+Sherlock Holmes (2009) - id:73017
+Despicable Me (2010) - id:79091
+King's Speech, The (2010) - id:81845
+Crazy, Stupid, Love. (2011) - id:88163
+Intouchables (2011) - id:92259
+Brave (2012) - id:95167
+Amazing Spider-Man, The (2012) - id:95510
+Skyfall (2012) - id:96079
+Life of Pi (2012) - id:97938
+Grand Budapest Hotel, The (2014) - id:109374
+Kingsman: The Secret Service (2015) - id:119145
+Mortal Kombat (1995) - id:44
+River Wild, The (1994) - id:376
+Searching for Bobby Fischer (1993) - id:529
+Sling Blade (1996) - id:1358
+Die Hard 2 (1990) - id:1370
+Air Force One (1997) - id:1608
+Titanic (1997) - id:1721
+Godzilla (1998) - id:1882
+Lethal Weapon 4 (1998) - id:1918
+Lethal Weapon 3 (1992) - id:2002
+Beavis and Butt-Head Do America (1996) - id:1405
+Deep Impact (1998) - id:1876
+Splash (1984) - id:2100
+10 Things I Hate About You (1999) - id:2572
+Never Been Kissed (1999) - id:2581
+Big Daddy (1999) - id:2694
+Chasing Amy (1997) - id:1639
+Cruel Intentions (1999) - id:2541
+Pitch Black (2000) - id:3300
+Final Destination (2000) - id:3409
+Shanghai Noon (2000) - id:3624
+Gone in 60 Seconds (2000) - id:3717
+Patriot, The (2000) - id:3753
+Cell, The (2000) - id:3863
+Snatch (2000) - id:4011
+Hannibal (2001) - id:4148
+Showgirls (1995) - id:193
+Cable Guy, The (1996) - id:784
+Johnny Mnemonic (1995) - id:172
+Godfather, The (1972) - id:858
+Aliens (1986) - id:1200
+Fifth Element, The (1997) - id:1527
+Gattaca (1997) - id:1653
+X-Files: Fight the Future, The (1998) - id:1909
+Lethal Weapon 2 (1989) - id:2001
+Little Mermaid, The (1989) - id:2081
+101 Dalmatians (One Hundred and One Dalmatians) (1961) - id:2085
+Ronin (1998) - id:2278
+Misery (1990) - id:3499
+Frequency (2000) - id:3510
+American Psycho (2000) - id:3535
+U-571 (2000) - id:3555
+Cast Away (2000) - id:4022
+Others, The (2001) - id:4720
+My Neighbor Totoro (Tonari no Totoro) (1988) - id:5971
+28 Days Later (2002) - id:6502
+The Butterfly Effect (2004) - id:7254
+Kill Bill: Vol. 2 (2004) - id:7438
+I, Robot (2004) - id:8644
+Children of Men (2006) - id:48774
+Prestige, The (2006) - id:48780
+Ratatouille (2007) - id:50872
+I Am Legend (2007) - id:56174
+Iron Man (2008) - id:59315
+WALL·E (2008) - id:60069
+Gran Torino (2008) - id:64614
+Moon (2009) - id:68237
+(500) Days of Summer (2009) - id:69757
+District 9 (2009) - id:70286
+Limitless (2011) - id:84152
+Source Code (2011) - id:85414
+Avengers, The (2012) - id:89745
+The Hunger Games (2012) - id:91500
+Looper (2012) - id:96610
+Gravity (2013) - id:104841
+Captain America: The Winter Soldier (2014) - id:110102
+Edge of Tomorrow (2014) - id:111759
+Gone Girl (2014) - id:112556
+Guardians of the Galaxy (2014) - id:112852
+Star Wars: Episode VII - The Force Awakens (2015) - id:122886
+Deadpool (2016) - id:122904
+The Martian (2015) - id:134130
+Inside Out (2015) - id:134853
+Zootopia (2016) - id:152081
+Taxi Driver (1976) - id:111
+Blade Runner (1982) - id:541
+Wallace & Gromit: A Close Shave (1995) - id:745
+Maltese Falcon, The (1941) - id:913
+Wallace & Gromit: The Wrong Trousers (1993) - id:1148
+One Flew Over the Cuckoo's Nest (1975) - id:1193
+Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966) - id:1201
+To Kill a Mockingbird (1962) - id:1207
+Annie Hall (1977) - id:1230
+Chinatown (1974) - id:1252
+Evil Dead II (Dead by Dawn) (1987) - id:1261
+Manchurian Candidate, The (1962) - id:1267
+Cool Hand Luke (1967) - id:1276
+Payback (1999) - id:2490
+Mystery Men (1999) - id:2723
+Princess Mononoke (Mononoke-hime) (1997) - id:3000
+Fisher King, The (1991) - id:3108
+Man on the Moon (1999) - id:3174
+Donnie Darko (2001) - id:4878
+Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001) - id:4973
+Eternal Sunshine of the Spotless Mind (2004) - id:7361
+Old Boy (2003) - id:27773
+Pan's Labyrinth (Laberinto del fauno, El) (2006) - id:48394
+Toy Story 3 (2010) - id:78499
+Die Hard (1988) - id:1036
+Godfather: Part II, The (1974) - id:1221
+Raging Bull (1980) - id:1228
+Sting, The (1973) - id:1234
+Star Trek III: The Search for Spock (1984) - id:1375
+Untouchables, The (1987) - id:2194
+Trading Places (1983) - id:3039
+For a Few Dollars More (Per qualche dollaro in più) (1965) - id:3681
+Bill & Ted's Excellent Adventure (1989) - id:4571
+City of God (Cidade de Deus) (2002) - id:6016
+Mystic River (2003) - id:6870
+Howl's Moving Castle (Hauru no ugoku shiro) (2004) - id:31658
+Wrestler, The (2008) - id:64839
+Star Trek (2009) - id:68358
+Social Network, The (2010) - id:80463
+Carlito's Way (1993) - id:431
+Demolition Man (1993) - id:442
+True Romance (1993) - id:555
+Dragonheart (1996) - id:653
+Trainspotting (1996) - id:778
+Cool Runnings (1993) - id:1020
+William Shakespeare's Romeo + Juliet (1996) - id:1059
+Star Trek: First Contact (1996) - id:1356
+Star Trek II: The Wrath of Khan (1982) - id:1374
+Lost World: Jurassic Park, The (1997) - id:1544
+Jackie Brown (1997) - id:1729
+Rain Man (1988) - id:1961
+Karate Kid, The (1984) - id:2420
+American Pie (1999) - id:2706
+Ferris Bueller's Day Off (1986) - id:2918
+Fistful of Dollars, A (Per un pugno di dollari) (1964) - id:2951
+Home Alone 2: Lost in New York (1992) - id:2953
+Sleepy Hollow (1999) - id:3081
+Bodyguard, The (1992) - id:3257
+Boondock Saints, The (2000) - id:3275
+Chicken Run (2000) - id:3751
+Scary Movie (2000) - id:3785
+Scarface (1983) - id:4262
+Zoolander (2001) - id:4816
+Panic Room (2002) - id:5266
+Bourne Identity, The (2002) - id:5418
+Bowling for Columbine (2002) - id:5669
+Ring, The (2002) - id:5679
+Equilibrium (2002) - id:5903
+Pianist, The (2002) - id:5995
+Anger Management (2003) - id:6287
+Bruce Almighty (2003) - id:6373
+Italian Job, The (2003) - id:6378
+Monty Python's The Meaning of Life (1983) - id:6807
+Big Fish (2003) - id:7147
+Hellboy (2004) - id:7373
+Day After Tomorrow, The (2004) - id:8361
+Anchorman: The Legend of Ron Burgundy (2004) - id:8641
+Garden State (2004) - id:8784
+Team America: World Police (2004) - id:8917
+The Machinist (2004) - id:8950
+Charlie and the Chocolate Factory (2005) - id:30793
+Hitchhiker's Guide to the Galaxy, The (2005) - id:33004
+Madagascar (2005) - id:33615
+Fantastic Four (2005) - id:34150
+Serenity (2005) - id:34405
+Lord of War (2005) - id:36529
+Corpse Bride (2005) - id:37729
+Wallace & Gromit in The Curse of the Were-Rabbit (2005) - id:38038
+Kiss Kiss Bang Bang (2005) - id:38061
+V for Vendetta (2006) - id:44191
+Inside Man (2006) - id:44199
+Lives of Others, The (Das leben der Anderen) (2006) - id:44555
+Lucky Number Slevin (2006) - id:44665
+Pirates of the Caribbean: Dead Man's Chest (2006) - id:45722
+Little Miss Sunshine (2006) - id:46578
+Zodiac (2007) - id:51540
+Pirates of the Caribbean: At World's End (2007) - id:53125
+Live Free or Die Hard (2007) - id:53972
+Transformers (2007) - id:53996
+Simpsons Movie, The (2007) - id:54272
+Into the Wild (2007) - id:55247
+American Gangster (2007) - id:55765
+Sweeney Todd: The Demon Barber of Fleet Street (2007) - id:56757
+In Bruges (2008) - id:57669
+Indiana Jones and the Kingdom of the Crystal Skull (2008) - id:59615
+Kung Fu Panda (2008) - id:59784
+Incredible Hulk, The (2008) - id:60040
+Watchmen (2009) - id:60684
+Curious Case of Benjamin Button, The (2008) - id:64957
+Hangover, The (2009) - id:69122
+Kick-Ass (2010) - id:76251
+Iron Man 2 (2010) - id:77561
+Scott Pilgrim vs. the World (2010) - id:79702
+Thor (2011) - id:86332
+X-Men: First Class (2011) - id:87232
+Drive (2011) - id:88129
+Captain America: The First Avenger (2011) - id:88140
+Sherlock Holmes: A Game of Shadows (2011) - id:91542
+Hobbit: An Unexpected Journey, The (2012) - id:98809
+Iron Man 3 (2013) - id:102125
+X-Men: Days of Future Past (2014) - id:111362
+The Imitation Game (2014) - id:116797
+The Revenant (2015) - id:139385
+Pocahontas (1995) - id:48
+Judge Dredd (1995) - id:173
+Beverly Hills Cop III (1994) - id:420
+Nightmare Before Christmas, The (1993) - id:551
+Heavy Metal (1981) - id:610
+Mystery Science Theater 3000: The Movie (1996) - id:671
+Craft, The (1996) - id:724
+Kingpin (1996) - id:785
+Nutty Professor, The (1996) - id:788
+Ransom (1996) - id:832
+Vertigo (1958) - id:903
+Sabrina (1954) - id:915
+Long Kiss Goodnight, The (1996) - id:1047
+Escape from New York (1981) - id:1129
+Army of Darkness (1993) - id:1215
+Heathers (1989) - id:1285
+Birds, The (1963) - id:1333
+Carrie (1976) - id:1345
+101 Dalmatians (1996) - id:1367
+Star Trek VI: The Undiscovered Country (1991) - id:1372
+Star Trek V: The Final Frontier (1989) - id:1373
+Star Trek IV: The Voyage Home (1986) - id:1376
+Grease (1978) - id:1380
+Raising Arizona (1987) - id:1394
+Scream (1996) - id:1407
+Saint, The (1997) - id:1479
+Liar Liar (1997) - id:1485
+Batman & Robin (1997) - id:1562
+Hercules (1997) - id:1566
+My Best Friend's Wedding (1997) - id:1569
+The Devil's Advocate (1997) - id:1645
+Stripes (1981) - id:1663
+Alien: Resurrection (1997) - id:1690
+Scream 2 (1997) - id:1717
+Tomorrow Never Dies (1997) - id:1722
+Wag the Dog (1997) - id:1747
+Dark City (1998) - id:1748
+Dr. Dolittle (1998) - id:1911
+Pi (1998) - id:1921
+Poltergeist (1982) - id:1994
+Gremlins (1984) - id:2003
+Dark Crystal, The (1982) - id:2140
+Sixteen Candles (1984) - id:2144
+Blade (1998) - id:2167
+Say Anything... (1989) - id:2248
+Antz (1998) - id:2294
+My Cousin Vinny (1992) - id:2302
+Pleasantville (1998) - id:2321
+Bug's Life, A (1998) - id:2355
+Star Trek: Insurrection (1998) - id:2393
+Shakespeare in Love (1998) - id:2396
+Cocoon (1985) - id:2407
+Christmas Vacation (National Lampoon's Christmas Vacation) (1989) - id:2423
+Fly, The (1986) - id:2455
+Analyze This (1999) - id:2539
+Entrapment (1999) - id:2605
+Arachnophobia (1990) - id:2699
+Blair Witch Project, The (1999) - id:2710
+Little Shop of Horrors (1986) - id:2746
+Christmas Story, A (1983) - id:2804
+Risky Business (1983) - id:2915
+Time Bandits (1981) - id:2968
+World Is Not Enough, The (1999) - id:3082
+Fatal Attraction (1987) - id:3101
+Whole Nine Yards, The (2000) - id:3301
+Bull Durham (1988) - id:3361
+Muppet Movie, The (1979) - id:3396
+Thelma & Louise (1991) - id:3418
+Animal House (1978) - id:3421
+Close Encounters of the Third Kind (1977) - id:3471
+Running Man, The (1987) - id:3698
+Me, Myself & Irene (2000) - id:3752
+Hollow Man (2000) - id:3826
+Cinderella (1950) - id:1022
+Sound of Music, The (1965) - id:1035
+Mask of Zorro, The (1998) - id:2006
+Peter Pan (1953) - id:2087
+Perfect Storm, The (2000) - id:3755
+Meet the Parents (2000) - id:3948
+How the Grinch Stole Christmas (a.k.a. The Grinch) (2000) - id:3988
+Emperor's New Groove, The (2000) - id:4016
+Miss Congeniality (2000) - id:4025
+Mummy Returns, The (2001) - id:4270
+Knight's Tale, A (2001) - id:4299
+Swordfish (2001) - id:4344
+Lara Croft: Tomb Raider (2001) - id:4367
+Fast and the Furious, The (2001) - id:4369
+Final Fantasy: The Spirits Within (2001) - id:4446
+Jurassic Park III (2001) - id:4638
+American Pie 2 (2001) - id:4718
+Jay and Silent Bob Strike Back (2001) - id:4734
+Training Day (2001) - id:4776
+Mulholland Drive (2001) - id:4848
+Royal Tenenbaums, The (2001) - id:4979
+Blade II (2002) - id:5254
+My Big Fat Greek Wedding (2002) - id:5299
+Insomnia (2002) - id:5388
+Red Dragon (2002) - id:5630
+Daredevil (2003) - id:6157
+First Blood (Rambo: First Blood) (1982) - id:2403
+Runaway Bride (1999) - id:2724
+Naked Gun: From the Files of Police Squad!, The (1988) - id:3868
+Beverly Hills Cop (1984) - id:4085
+Rush Hour 2 (2001) - id:4701
+Resident Evil (2002) - id:5219
+Meet the Fockers (2004) - id:30825
+Wedding Crashers (2005) - id:34162
+Harry Potter and the Goblet of Fire (2005) - id:40815
+Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The (2005) - id:41566
+Da Vinci Code, The (2006) - id:45447
+Knocked Up (2007) - id:52973
+Ocean's Thirteen (2007) - id:53322
+Forgetting Sarah Marshall (2008) - id:58998
+Taken (2008) - id:59369
+Slumdog Millionaire (2008) - id:63082
+Blind Side, The  (2009) - id:72641
+How to Train Your Dragon (2010) - id:76093
+Black Swan (2010) - id:81591
+Harry Potter and the Deathly Hallows: Part 1 (2010) - id:81834
+Harry Potter and the Deathly Hallows: Part 2 (2011) - id:88125
+The Lego Movie (2014) - id:108932
+Big Hero 6 (2014) - id:115617
+French Connection, The (1971) - id:1953
+Rosemary's Baby (1968) - id:2160
+Insider, The (1999) - id:3006
+Punch-Drunk Love (2002) - id:5673
+Lost in Translation (2003) - id:6711
+Super Size Me (2004) - id:8464
+Fahrenheit 9/11 (2004) - id:8622
+Million Dollar Baby (2004) - id:30707
+Brokeback Mountain (2005) - id:39183
+Stranger than Fiction (2006) - id:46976
+Superbad (2007) - id:54503
+No Country for Old Men (2007) - id:55820
+Burn After Reading (2008) - id:61323
+Coraline (2009) - id:66097
+City of Lost Children, The (Cité des enfants perdus, La) (1995) - id:29
+Madness of King George, The (1994) - id:272
+Boot, Das (Boat, The) (1981) - id:1233
+Femme Nikita, La (Nikita) (1990) - id:1249
+Akira (1988) - id:1274
+Fear and Loathing in Las Vegas (1998) - id:1884
+The Count of Monte Cristo (2002) - id:5064
+Constantine (2005) - id:31696
+40-Year-Old Virgin, The (2005) - id:35836
+Illusionist, The (2006) - id:47610
+Pineapple Express (2008) - id:61024
+Tropic Thunder (2008) - id:61132
+African Queen, The (1951) - id:969
+Great Escape, The (1963) - id:1262
+Ben-Hur (1959) - id:1287
+Jaws (1975) - id:1387
+Fried Green Tomatoes (1991) - id:1271
+Dune (1984) - id:2021
+Rounders (1998) - id:2231
+Boys Don't Cry (1999) - id:2908
+Patriot Games (1992) - id:3256
+Black Hawk Down (2001) - id:5010
+Phone Booth (2002) - id:6281
+Terminator 3: Rise of the Machines (2003) - id:6537
+Master and Commander: The Far Side of the World (2003) - id:6947
+Hero (Ying xiong) (2002) - id:7090
+Shaun of the Dead (2004) - id:8874
+Crash (2004) - id:33166
+King Kong (2005) - id:41569
+Thank You for Smoking (2006) - id:44195
+Babel (2006) - id:46723
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006) - id:48385
+Blood Diamond (2006) - id:49530
+Hot Fuzz (2007) - id:51255
+It's a Wonderful Life (1946) - id:953
+Lawrence of Arabia (1962) - id:1204
+Glory (1989) - id:1242
+American Graffiti (1973) - id:3363
+Jerry Maguire (1996) - id:1393
+Hudsucker Proxy, The (1994) - id:471
+Eraser (1996) - id:786
+Time to Kill, A (1996) - id:805
+Boogie Nights (1997) - id:1673
+October Sky (1999) - id:2501
+Dog Day Afternoon (1975) - id:3362
+Brady Bunch Movie, The (1995) - id:585
+Beach, The (2000) - id:3285
+Shallow Hal (2001) - id:4890
+Matchstick Men (2003) - id:6708
+Harry Potter and the Order of the Phoenix (2007) - id:54001
+Silver Linings Playbook (2012) - id:97921
+Deliverance (1972) - id:2871
+Three Kings (1999) - id:2890
+Caddyshack (1980) - id:3552
+City Slickers (1991) - id:4321
+Tootsie (1982) - id:4361
+Roger & Me (1989) - id:2064
+Addams Family, The (1991) - id:2124
+Vanilla Sky (2001) - id:4975
+Alien³ (a.k.a. Alien 3) (1992) - id:1320
+8 Mile (2002) - id:5810
+Manhattan (1979) - id:1244
+Exorcist, The (1973) - id:1997
+Spider-Man 3 (2007) - id:52722
+Hurt Locker, The (2008) - id:69481
+Out of Sight (1998) - id:1912
+Player, The (1992) - id:2289
+League of Extraordinary Gentlemen, The (a.k.a. LXG) (2003) - id:6541
+Battle Royale (Batoru rowaiaru) (2000) - id:7022
+Napoleon Dynamite (2004) - id:8376
+Life Aquatic with Steve Zissou, The (2004) - id:30810
+Stardust (2007) - id:54259
+Old School (2003) - id:6188
+Bend It Like Beckham (2002) - id:6218
+Elf (2003) - id:6936
+Underworld (2003) - id:6754
+Dude, Where's My Car? (2000) - id:4015
+Harold and Kumar Go to White Castle (2004) - id:8807
+Devil Wears Prada, The (2006) - id:45720
+Cinema Paradiso (Nuovo cinema Paradiso) (1989) - id:1172

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        {% load static %}
+        <link href="https://fonts.googleapis.com/css?family=Fjalla+One&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="{% static 'main_app/home.css' %}">
+        <meta charset="UTF-8">
+        <title>FlickFinder | Conditions of Use</title>
+    </head>    <meta charset="UTF-8">
+<title>About us</title>
+    <header>
+        <div class="navigation">
+            <a href="/home" class="logo">FlickFinder</a>
+            <nav>
+                <ul>
+                    <li><form>
+                        <input type="text" name="search" placeholder=" Type a  movie name" id="search"></form>
+                          <div class="dropdown">
+                            <a  class="list-group" id="list" href="/rating"> </a>
+                            <script src = "./search.js"></script>
+                          </div></li>
+                    <li><a href="/home">Home</a></li>
+                    <li><a href="/Aboutus">About</a></li>
+                    <li><a href="/log">Login</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+</head>
+<body>
+
+</body>
+<footer>
+    <ul>
+        <li>Copyright &copy; 2020 flickfinder.com, all rights reserved Group Y7 </li>
+        <li><a href="/Aboutus">About Us</a></li>
+        <li><a href="/condition">Condition of Use</a></li>
+        <li><a href="/privacy">Privacy Policy</a></li>
+    </ul>
+</footer>
+</html>

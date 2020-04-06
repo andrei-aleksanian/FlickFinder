@@ -1,42 +1,86 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    {% load static %}
     <link href="https://fonts.googleapis.com/css?family=Fjalla+One&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/home/mohammed/Downloads/first_year_team_project-master/flickfinder/home.css">
+    <link rel="stylesheet" href="{% static 'main_app/home.css' %}">
     <meta charset="UTF-8">
-    <title>FlickFinder</title>
+    <title>FlickFinder | Home</title>
 </head>
 <body>
     <header>
         <div class="navigation">
-            <a href="#" class="logo">FlickFinder</a>
+            <a href="/home" class="logo">FlickFinder</a>
             <nav>
                 <ul>
-                    <li><a href="./search.html">Search</a></li>
-                    <li><a href="./home.html">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="./sign-in.html">Login</a></li>
+                    <li><form>
+                        <input type="text" name="search" placeholder=" Type a  movie name" id="search"></form>
+                          <div class="dropdown">
+                            <a  class="list-group" id="list" href="/rating"> </a>
+                            <script src = "./search.js"></script>
+                          </div></li>
+                    <li><a href="/home">Home</a></li>
+                    <li><a href="/Aboutus">About</a></li>
+                    <li><a href="/log">Login</a></li>
                 </ul>
             </nav>
         </div>
     </header>
 
-    <h2>Movies We Recommend You watch:</h2>
-    <div id="werecommend"></div>
+<main class="wrapper">
 
-<script>
-    fetch("https://my-json-server.typicode.com/typicode/demo/posts")
-    .then(response => response.json())
-    .then(data => {
-        var display = document.getElementById("werecommend")
-        var list = document.createElement("ul")
-        data.forEach(i => {
-            var element = document.createElement("li")
-            element.innerHTML = "Movie title:"+ i['title']
-            list.appendChild(element)
-        })
-        display.appendChild(list)
-    })
-</script>
+    <div id="we-recommend-box">
+        <h2>Movies We Recommend You watch:</h2>
+        <div id="we-recommend-data"></div>
+        <script>
+            fetch("http://localhost:8000/api/recommend/1/0")
+                .then(response => response.json())
+                .then(data => {
+                    let display = document.getElementById("we-recommend-data");
+                    let list = document.createElement("ul");
+                    data.forEach(i => {
+                        let element = document.createElement("li");
+                        element.innerHTML = "Movie title:"+ i['title'];
+                        list.appendChild(element);
+                    });
+                    display.appendChild(list);
+                    
+
+                });
+        </script>
+    </div>
+
+    <div id="user-rate-box">
+        <h2> Movies you have rated:</h2>
+        <div id="user-rate-data"></div>
+
+        <script>
+            fetch("http://localhost:8000/api/viewed/1")
+                .then(response => response.json())
+                .then(data => {
+                    data = data.slice(0,20);
+                    let display1 = document.getElementById("user-rate-data");
+                    let list1 = document.createElement("ul");
+                    data.forEach(i => {
+                        let element1 = document.createElement("li");
+                        element1.innerHTML = "Movie title:" + i['title']+" Rating:" + i['rating'];
+                        list1.appendChild(element1);
+                    });
+                    display1.appendChild(list1);
+                })
+        </script>
+    </div>
+
+</main>
+
+<footer>
+    <ul>
+        <li>Copyright &copy; 2020 flickfinder.com, all rights reserved Group Y7 </li>
+        <li><a href="/Aboutus">About Us</a></li>
+        <li><a href="/condition">Condition of Use</a></li>
+        <li><a href="/privacy">Privacy Policy</a></li>
+    </ul>
+</footer>
+
 </body>
 </html>
